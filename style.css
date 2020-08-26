@@ -1,0 +1,33 @@
+header {
+    background-color: #2da1ae;
+    display: flex;
+    align-items: center;
+}
+
+body {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+img {
+    width: 150px;
+    margin: 12px 0;
+    display: inline-block;
+}
+
+nav {
+    display: inline-block;
+}
+
+.link {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+
+/* #glavni {
+    background-color: red;
+} */
